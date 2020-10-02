@@ -1,0 +1,6 @@
+de/consol/RestServiceDemo/RestServiceDemoApplication.class
+de/consol/RestServiceDemo/Metrics.class
+de/consol/RestServiceDemo/Index.class
+de/consol/RestServiceDemo/filter/MyPreMatchingRequestFilter.class
+de/consol/RestServiceDemo/JerseyConfiguration.class
+de/consol/RestServiceDemo/filter/MyResponseFilter.class

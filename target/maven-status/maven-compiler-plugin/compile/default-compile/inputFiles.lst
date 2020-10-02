@@ -1,0 +1,6 @@
+/home/jpaz/Desktop/springboot-monitoring-example-master/src/main/java/de/consol/RestServiceDemo/Index.java
+/home/jpaz/Desktop/springboot-monitoring-example-master/src/main/java/de/consol/RestServiceDemo/Metrics.java
+/home/jpaz/Desktop/springboot-monitoring-example-master/src/main/java/de/consol/RestServiceDemo/filter/MyResponseFilter.java
+/home/jpaz/Desktop/springboot-monitoring-example-master/src/main/java/de/consol/RestServiceDemo/JerseyConfiguration.java
+/home/jpaz/Desktop/springboot-monitoring-example-master/src/main/java/de/consol/RestServiceDemo/filter/MyPreMatchingRequestFilter.java
+/home/jpaz/Desktop/springboot-monitoring-example-master/src/main/java/de/consol/RestServiceDemo/RestServiceDemoApplication.java
